@@ -20,4 +20,6 @@
 # Certification
 
 [Certification URL](https://www.coursera.org/account/accomplishments/verify/A6MM455M9F4D)
+
+
 [Course URL](https://www.coursera.org/learn/nlp-sequence-models)
