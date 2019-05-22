@@ -1,6 +1,6 @@
 # Week-wise Split of assignments in the course:
 
-- ### Week1
+- ### Week 1
 
     - Building an RNN step-by-step
     - Character-level Language Model to generate Dinosaur names
